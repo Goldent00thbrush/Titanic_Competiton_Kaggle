@@ -6,7 +6,7 @@ This dataset contains info about boarders of the titanic ship. Our goal is to us
 ### My assumptions
 From the first look at the data, it seems as though factors such as Age, Class and Gender play a pivitol role in determining survival.
 ### Links
-[My notebook on Kaggle](https://www.kaggle.com/princessofpersia/titanic-competiton/) \
+[My notebook on Kaggle](https://www.kaggle.com/princessofpersia/titanic-competiton/) - it is also uploaded as a python notebook \
 [More details about the competiton on Kaggle](https://www.kaggle.com/c/titanic)
 ### The Result 
 I scored (accuracy) 77% on the test set and a 90% on the training set. 
